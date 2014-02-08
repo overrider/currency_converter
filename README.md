@@ -1,7 +1,7 @@
 Currency Converter
 ==================
 
-A simple commandline currency converter written in PHP, which actually makes a decent all purpose language to implement simple console programs.
+A simple self updating commandline currency converter written in PHP, which actually makes a decent all purpose language to implement simple console programs. Allows to easily convert between any Currency, and can be easily adapted to fit into a larger project.
 
 Installation:
 =============
